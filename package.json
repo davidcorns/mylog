@@ -1,0 +1,13 @@
+{
+  "name": "mylog",
+  "version": "0.0.1",
+  "description": "my custom make logger",
+  "author": "David Wong <davidwongtt@gmail.com>",
+  "main": "mylog.js",
+  "keywords": [ "loglevel", "log", "logger" ],
+  "preferGlobal": true,
+  "private": true,
+  "analyze": true,
+  "license": "MIT"
+}
+
